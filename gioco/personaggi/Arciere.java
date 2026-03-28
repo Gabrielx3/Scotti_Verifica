@@ -6,12 +6,12 @@ public class Arciere extends Personaggio{
     }
     @Override
     public void attacca(){
-        System.out.println(getNome()+"ha usato l'arco");
+        System.out.println(getNome()+" ha usato l'arco");
 
     }
     @Override
     public void difendi(){
-        System.out.println(getNome()+"si è difeso sparando una freccia");
+        System.out.println(getNome()+" si è difeso sparando una freccia");
     }
 
 

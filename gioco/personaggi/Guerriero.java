@@ -6,12 +6,12 @@ public class Guerriero extends Personaggio{
     }
     @Override
     public void attacca(){
-        System.out.println(getNome()+"ha usato la spada");
+        System.out.println(getNome()+" ha usato la spada");
 
     }
     @Override
     public void difendi(){
-        System.out.println(getNome()+"si è difeso con lo scudo");
+        System.out.println(getNome()+" si è difeso con lo scudo");
     }
 
 
